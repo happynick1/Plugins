@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    {
+      "id": "ui_theme_plugin",
+      "name": "UI 美化插件",
+      "version": "1.0.0",
+      "author": "UI Designer",
+      "description": "自定义语音助手的配色方案和布局，支持多种主题风格、字体大小、按钮样式等",
+      "tags": ["UI", "美化", "主题", "布局"],
+      "auto_start": false,
+      "size": "8KB",
+      "downloads": 1250,
+      "icon": "🎨",
+      "file": "ui_theme_plugin.py"
+    }
+  ],
+  "last_updated": "2026-03-13"
+}

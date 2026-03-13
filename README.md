@@ -1,2 +1,4 @@
-# Plugins
-Nickmarket's plugins
+# 🎨 语音助手插件仓库
+
+## 目录结构
+
