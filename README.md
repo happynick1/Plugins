@@ -50,8 +50,9 @@
 如果您想开发自己的插件，请遵循以下规范：
 
 ### 基本结构
+#### python 
 ```
-python 
+
 def plugin_id(self):
     """插件功能实现函数"""
     # 插件的主要功能代码
@@ -72,9 +73,9 @@ def README():
 ## 📁 目录结构
 
 Plugins/ 
-├── README.md # 本说明文件 
-├── ui_theme_plugin.py # UI 美化插件 
-└── ... # 更多插件
+├── README.md  本说明文件 
+├── ui_theme_plugin.py  UI 美化插件 
+└── ...  更多插件
 ---
 
 ## 🔧 故障排除
